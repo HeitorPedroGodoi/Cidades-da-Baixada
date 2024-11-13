@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+}
+
+body {
+
+	background-image:url("cubatão.png") ;
+	background-color: lightblue;
+	 background-repeat: no-repeat;
+	 background-size: 100%;	
+}
+ section{
+ 	text-align: center;
+ 	height: 50px;
+ 	margin: left; 
+ 	width: 200px;
+ 	padding: 50px;
+
+ 
+ 
+}
+
+header{
+	text-align: center;
+ 	width: 100%;
+	height: 100px;
+	background-color:rgba(000, 0, 0, 0.6);
+
+
+}
+div{
+	color: white;
+	opacity: 1;
+	-webkit-text-stroke: 2px black;
+ }
+#ta{
+	text-align: center;
+	margin: center;
+	font-size: 40px;
+	color: white;
+}
+
+a{
+	font-size: 30px;
+	margin: auto;
+	color:white;
+	font-family: "Arial";
+		-webkit-text-stroke: 1px black;
+}
